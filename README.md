@@ -1,4 +1,5 @@
-# OFX2XLS - Converting OFX files to XLS &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+# OFX2XLS - Converting OFX files to XLS &middot; 
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Getting Started
 
