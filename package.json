@@ -1,0 +1,18 @@
+{
+  "name": "ofx2xls",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "banking": "^1.2.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "exceljs": "^1.9.0",
+    "express": "~4.16.0",
+    "express-fileupload": "^1.1.6-alpha.6",
+    "lodash": "^4.17.15",
+    "morgan": "~1.9.0"
+  }
+}
